@@ -42,8 +42,8 @@ Make sure you have [Docker](https://www.docker.com/) installed and running.
 4. Create a new post by clicking the "New Post" button.
 5. Fill in the country, city, description, and upload an image.
 6. Click "Post" to share your experience.
-7. ~~Search for other users and follow them.~~
-8. ~~Explore the globe to see posts from other users you follow.~~
+8. Search for other users and follow them.
+9. Explore the globe to see posts from other users you follow.
 
 ## How It's Built
 
