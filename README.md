@@ -22,7 +22,7 @@ Make sure you have [Docker](https://www.docker.com/) installed and running.
 1. **Clone the repository**:
 
     ```sh
-    git clone https://github.com/danielyedaniel/Roamr.git
+    git clone https://github.com/JohnVTurco/Roamr.git
     cd Roamr
     ```
 
